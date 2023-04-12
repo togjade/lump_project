@@ -1,3 +1,4 @@
+
 <launch>
 	<node name="takktile" 
 	pkg="takktile_ros" 
@@ -7,7 +8,5 @@
 	name="lump_with_press_2_csv" 
 	type="lump_with_press_2_csv.py"
 	output = "screen" /> 
-
-</launch>
 
 

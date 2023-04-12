@@ -1,3 +1,4 @@
+
 <launch>
 	<node name="takktile" 
 	pkg="takktile_ros" 
@@ -11,7 +12,4 @@
 	<node pkg="imu_files" 
 	name="lump_collect_data" 
 	type="lump_collect_data.py" /> 
-
-</launch>
-
 
