@@ -1,4 +1,0 @@
-open terminal 
-    * cd Matlab/extern/engines/python
-    * sudo python setup.py build --build-base=$(mktemp -d) install --user
-    
