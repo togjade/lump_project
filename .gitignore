@@ -1,5 +1,5 @@
 
-*.py
-server_files/spectrogram/stratify_data_by_prototypes.py
-server_files/spectrogram/utils.py
-server_files/spectrogram/models.py
+# *.py
+# server_files/spectrogram/stratify_data_by_prototypes.py
+# server_files/spectrogram/utils.py
+# server_files/spectrogram/models.py
